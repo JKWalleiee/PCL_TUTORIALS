@@ -6,10 +6,10 @@ It allows extracting clusters / segments in the point cloud, through the Euclide
 ### Normal_stimation
 Estimation of the normal surface vectors to the point cloud.
 
-## VFH
+### VFH
 Extraction of the VFH global descriptor.
 
-## filter_map
+### filter_map
 It allows extracting a point cloud filtered through lower and upper limits.
 
 ### kdtree_search
@@ -21,7 +21,7 @@ Extraction of the local Narf descriptor
 ### planar_segmentation
 It allows to extract the main plane in the point cloud.
 
-## range_image_border_extraction
+### range_image_border_extraction
 It allows to extract the edges of an image (related to Narf)
 
 ### remove_outliers
