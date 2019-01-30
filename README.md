@@ -21,7 +21,7 @@ Extraction of the local Narf descriptor
 ### planar_segmentation
 It allows to extract the main plane in the point cloud.
 
-## range_image_border_extraction Add files via upload 25 minutes ago
+## range_image_border_extraction
 It allows to extract the edges of an image (related to Narf)
 
 ### remove_outliers
